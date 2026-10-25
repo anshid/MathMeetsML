@@ -21,6 +21,8 @@ real machine-learning things with them. No coding experience needed.
    ```
 3. **Stuck?** Raise your hand. An offline copy is available in the lab.
 
+   *Windows tip:* install into a short folder path (e.g. `C:\mml`). Very long folder names can make `pip install` fail with "filename too long".
+
 ## Missions
 
 | # | Mission | From your syllabus |
