@@ -29,8 +29,8 @@ real machine-learning things with them. No coding experience needed.
 | 1 | [Gradient Descent Golf](notebooks/01_gradient_descent_golf.ipynb) | Convex Optimization, ML-I |
 | 2 | [Digit Reader from scratch](notebooks/02_digit_reader.ipynb) | ML-I (regression, logistic) |
 | 3 | [Selfie Compressor & Eigenfaces](notebooks/03_selfie_compressor.ipynb) | SVD, PCA (ML-II) |
-| 4 | Mini-Google & Name Generator | Markov chains (Applied Probability) |
-| 5 | Inside a tiny AI | backprop, attention |
+| 4 | [Mini-Google & Name Generator](notebooks/04_mini_google.ipynb) | Markov chains (Applied Probability) |
+| 5 | [Inside a tiny AI](notebooks/05_inside_a_tiny_ai.ipynb) | backprop, attention |
 
 Each mission has **Core** (in the session), **Stretch** (finish early) and a **Quest** (take-home).
 
