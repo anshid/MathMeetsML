@@ -5,5 +5,8 @@ venv/
 .venv-test/
 *.pyc
 
+# Local progress tracker store (written when you run the notebooks)
+progress.json
+
 # Claude Code instructions (kept in the private repo)
 CLAUDE.md
