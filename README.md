@@ -25,10 +25,10 @@ real machine-learning things with them. No coding experience needed.
 
 | # | Mission | From your syllabus |
 |---|---|---|
-| 0 | Does it work? (digit widget) | warm-up |
+| 0 | [Does it work?](notebooks/00_ignite.ipynb) (digit widget) | warm-up |
 | 1 | [Gradient Descent Golf](notebooks/01_gradient_descent_golf.ipynb) | Convex Optimization, ML-I |
-| 2 | Digit Reader from scratch | ML-I (regression, logistic) |
-| 3 | Selfie Compressor & Eigenfaces | SVD, PCA (ML-II) |
+| 2 | [Digit Reader from scratch](notebooks/02_digit_reader.ipynb) | ML-I (regression, logistic) |
+| 3 | [Selfie Compressor & Eigenfaces](notebooks/03_selfie_compressor.ipynb) | SVD, PCA (ML-II) |
 | 4 | Mini-Google & Name Generator | Markov chains (Applied Probability) |
 | 5 | Inside a tiny AI | backprop, attention |
 
