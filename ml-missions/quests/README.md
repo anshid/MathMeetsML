@@ -1,6 +1,6 @@
 # Quests (take-home)
 
-Quests are optional challenges after the session. Finish one, put it in your own GitHub repo (see `../portfolio-template/`) and share the link in the group chat. The best ones go in the Hall of Fame.
+Quests are optional challenges after the session. Finish one, put it in your own GitHub repo (see `../../portfolio-template/`) and share the link in the group chat. The best ones go in the Hall of Fame.
 
 | Mission | Quest | Done when |
 |---|---|---|

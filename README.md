@@ -2,7 +2,7 @@
 
 > *Your maths courses were never wasted.*
 
-A 3-hour hands-on workshop for BSc Mathematics Honours students. You already know the theorems
+Hands-on workshops for BSc Mathematics Honours students. You already know the theorems
 (gradients, SVD, Markov chains, backprop is just the chain rule). Here you run them, break them and build
 real machine-learning things with them. No coding experience needed.
 
@@ -23,18 +23,25 @@ real machine-learning things with them. No coding experience needed.
 
    *Windows tip:* install into a short folder path (e.g. `C:\mml`). Very long folder names can make `pip install` fail with "filename too long".
 
-## Missions
+## Two workshops
+
+| Track | Folder | What you do |
+|---|---|---|
+| **ML Missions** | [`ml-missions/`](ml-missions/) | six missions: gradient descent, logistic regression, SVD, Markov chains, a tiny neural net and attention |
+| **Mathematics and AI: The Future of Mathematicians** | [`future-of-mathematicians/`](future-of-mathematicians/) | talk + Lean proof assistant worksheet + build and deploy three AI apps |
+
+## ML Missions
 
 | # | Mission | From your syllabus |
 |---|---|---|
-| 0 | [Does it work?](notebooks/00_ignite.ipynb) (digit widget) | warm-up |
-| 1 | [Gradient Descent Golf](notebooks/01_gradient_descent_golf.ipynb) | Convex Optimization, ML-I |
-| 2 | [Digit Reader from scratch](notebooks/02_digit_reader.ipynb) | ML-I (regression, logistic) |
-| 3 | [Selfie Compressor & Eigenfaces](notebooks/03_selfie_compressor.ipynb) | SVD, PCA (ML-II) |
-| 4 | [Mini-Google & Name Generator](notebooks/04_mini_google.ipynb) | Markov chains (Applied Probability) |
-| 5 | [Inside a tiny AI](notebooks/05_inside_a_tiny_ai.ipynb) | backprop, attention |
+| 0 | [Does it work?](ml-missions/notebooks/00_ignite.ipynb) (digit widget) | warm-up |
+| 1 | [Gradient Descent Golf](ml-missions/notebooks/01_gradient_descent_golf.ipynb) | Convex Optimization, ML-I |
+| 2 | [Digit Reader from scratch](ml-missions/notebooks/02_digit_reader.ipynb) | ML-I (regression, logistic) |
+| 3 | [Selfie Compressor & Eigenfaces](ml-missions/notebooks/03_selfie_compressor.ipynb) | SVD, PCA (ML-II) |
+| 4 | [Mini-Google & Name Generator](ml-missions/notebooks/04_mini_google.ipynb) | Markov chains (Applied Probability) |
+| 5 | [Inside a tiny AI](ml-missions/notebooks/05_inside_a_tiny_ai.ipynb) | backprop, attention |
 
-Each mission has **Core** (in the session), **Stretch** (finish early) and a **Quest** (take-home).
+Each mission has **Core** (in the session), **Stretch** (finish early) and a **Quest** (take-home, see [`ml-missions/quests/`](ml-missions/quests/)).
 
 ## Before the workshop
 - Create a free GitHub account.

@@ -3,6 +3,7 @@ import sys
 
 MIN_PYTHON = (3, 9)
 LIBS = ["numpy", "scipy", "matplotlib", "sklearn", "pandas", "ipywidgets"]
+OPTIONAL = ["gradio"]  # Workshop 2 apps; Colab installs it on demand
 
 
 def main():
@@ -21,6 +22,12 @@ def main():
             print(f"[X] {lib} is missing -> run: pip install -r requirements.txt")
     if not ok:
         return 1
+    for lib in OPTIONAL:
+        try:
+            mod = __import__(lib)
+            print(f"[OK] {lib} {getattr(mod, '__version__', '')}")
+        except ImportError:
+            print(f"[--] {lib} not installed (only needed for the Workshop 2 apps): pip install -r requirements.txt")
 
     import matplotlib
     matplotlib.use("Agg")
