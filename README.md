@@ -8,7 +8,7 @@ real machine-learning things with them. No coding experience needed.
 
 ## Quickstart (pick one)
 
-1. **Google Colab (easiest):** open a notebook below and click the badge. You need only a Google account.
+1. **Google Colab (easiest):** open a notebook below and click the badge. You need only a Google account. Use *File ▸ Save a copy in Drive* so your work is kept.
 2. **Your own computer:**
    ```
    git clone https://github.com/anshid/MathMeetsML.git
