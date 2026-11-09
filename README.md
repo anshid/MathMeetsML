@@ -34,12 +34,12 @@ real machine-learning things with them. No coding experience needed.
 
 | # | Mission | From your syllabus |
 |---|---|---|
-| 0 | [Does it work?](ml-missions/notebooks/00_ignite.ipynb) (digit widget) | warm-up |
-| 1 | [Gradient Descent Golf](ml-missions/notebooks/01_gradient_descent_golf.ipynb) | Convex Optimization, ML-I |
-| 2 | [Digit Reader from scratch](ml-missions/notebooks/02_digit_reader.ipynb) | ML-I (regression, logistic) |
-| 3 | [Selfie Compressor & Eigenfaces](ml-missions/notebooks/03_selfie_compressor.ipynb) | SVD, PCA (ML-II) |
-| 4 | [Mini-Google & Name Generator](ml-missions/notebooks/04_mini_google.ipynb) | Markov chains (Applied Probability) |
-| 5 | [Inside a tiny AI](ml-missions/notebooks/05_inside_a_tiny_ai.ipynb) | backprop, attention |
+| 0 | [Does it work?](ml-missions/notebooks/00_ignite.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshid/MathMeetsML/blob/main/ml-missions/notebooks/00_ignite.ipynb) (digit widget) | warm-up |
+| 1 | [Gradient Descent Golf](ml-missions/notebooks/01_gradient_descent_golf.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshid/MathMeetsML/blob/main/ml-missions/notebooks/01_gradient_descent_golf.ipynb) | Convex Optimization, ML-I |
+| 2 | [Digit Reader from scratch](ml-missions/notebooks/02_digit_reader.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshid/MathMeetsML/blob/main/ml-missions/notebooks/02_digit_reader.ipynb) | ML-I (regression, logistic) |
+| 3 | [Selfie Compressor & Eigenfaces](ml-missions/notebooks/03_selfie_compressor.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshid/MathMeetsML/blob/main/ml-missions/notebooks/03_selfie_compressor.ipynb) | SVD, PCA (ML-II) |
+| 4 | [Mini-Google & Name Generator](ml-missions/notebooks/04_mini_google.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshid/MathMeetsML/blob/main/ml-missions/notebooks/04_mini_google.ipynb) | Markov chains (Applied Probability) |
+| 5 | [Inside a tiny AI](ml-missions/notebooks/05_inside_a_tiny_ai.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshid/MathMeetsML/blob/main/ml-missions/notebooks/05_inside_a_tiny_ai.ipynb) | backprop, attention |
 
 Each mission has **Core** (in the session), **Stretch** (finish early) and a **Quest** (take-home, see [`ml-missions/quests/`](ml-missions/quests/)).
 
